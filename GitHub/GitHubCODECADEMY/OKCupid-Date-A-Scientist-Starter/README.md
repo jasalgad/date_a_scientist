@@ -1,10 +1,16 @@
 CONCLUSIONS:
 
-The data is very usefull to make any predictions, eventhough to predict "sign", the only thing you need is to vectorized correctly the union of words on variables comments in order to make correct emotive translation for machine learning
+The data is highly useful for making predictions. However, to accurately predict "religion," it is essential to properly vectorize the union of words in the variables' comments to achieve accurate emotive translation for machine learning.
 
-We can see that the 50% of the people are single, doesn´t have a work and are on age between 25-45. The media income is about 2.500€.
+Our analysis reveals that 50% of the individuals are single, unemployed, and aged between 25 and 45. The average income is approximately €57,362, and the majority are men.
 
-ON the sign prediction, there is an 8% of accuarcy, but is work enough to have the knowledge that If I study all the features, and tring to agrupate the correct words on all the 9 features about them, I could find a better score; even though I get an LEO on one of the best predictions witch is my wife sign.
+There are significant differences in drug consumption, with men consuming more drugs than women.
 
-I hope you enyoy.
-Javier.
+Regarding religion prediction, the accuracy across all models studied—Decision Tree Classifier, Random Forest Classifier, and K-Nearest Neighbors (KNN)—is around 25%. This indicates that while the current models provide some insight, further study of all features and proper grouping of relevant words in the ten features could potentially improve the score.
+
+Additionally, I experimented with creating an NLP model by vectorizing the words from all features that describe the individual, similar to the approach used in the 'essay.' However, the accuracy was similar, and incorporating this model did not prove to be necessary. Instead, I focused on clarifying infinitive verbs and important words, converting them into vectors, and using them based on frequency and significance.
+
+I hope you find this information useful.
+
+Best regards,
+Javier
