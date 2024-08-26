@@ -1,6 +1,6 @@
 CONCLUSIONS:
 
-The data is highly useful for making predictions. However, to accurately predict "religion," it is essential to properly vectorize the union of words in the variables' comments to achieve accurate emotive translation for machine learning.
+The data is highly useful for making predictions. However, to accurately max prediction rate," it is essential to carefully select the features that will be studied in the model.
 
 Our analysis reveals that 50% of the individuals are single, unemployed, and aged between 25 and 45. The average income is approximately €57,362, and the majority are men.
 
