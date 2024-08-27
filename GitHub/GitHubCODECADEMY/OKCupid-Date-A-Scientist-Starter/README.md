@@ -2,7 +2,7 @@ CONCLUSIONS:
 
 The data is highly useful for making predictions. However, to accurately max prediction rate," it is essential to carefully select the features that will be studied in the model.
 
-Our analysis reveals that 50% of the individuals are single, unemployed, and MAYORITY aged between 25-45, with a mean income $26.545. The average income is approximately $57.362, and the majority are men.
+Our analysis reveals that 47% of the individuals are single, unemployed, and MAYORITY aged between 25-35, with a mean income $19.687. The average income is approximately $57.362.
 
 There is a significant difference in drug consumption between genders, with men exhibiting a higher frequency of drug use than women.
 
