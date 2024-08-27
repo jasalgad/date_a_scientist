@@ -1,6 +1,6 @@
 ### CONCLUSIONS:
 
-The data is highly useful for making predictions. However, to accurately max prediction rate," it is essential to carefully select the features that will be studied in the model.
+The data is highly useful for making predictions. However, to accurately max prediction rate," it is essential to carefully select the features that will be studied in the model. I work on the variable 'religion' as a target on prediction model.
 
 Our analysis reveals that 47% of the individuals are single, unemployed, and MAYORITY aged between 25-35, with a mean income $19.687. The average income is approximately $57.362.
 
