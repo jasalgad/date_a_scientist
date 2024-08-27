@@ -2,9 +2,9 @@ CONCLUSIONS:
 
 The data is highly useful for making predictions. However, to accurately max prediction rate," it is essential to carefully select the features that will be studied in the model.
 
-Our analysis reveals that 50% of the individuals are single, unemployed, and aged between 25 and 45. The average income is approximately €57,362, and the majority are men.
+Our analysis reveals that 50% of the individuals are single, unemployed, and MAYORITY aged between 25-45, with a mean income $26.545. The average income is approximately $57.362, and the majority are men.
 
-There are significant differences in drug consumption, with men consuming more drugs than women.
+There is a significant difference in drug consumption between genders, with men exhibiting a higher frequency of drug use than women.
 
 Regarding religion prediction, the accuracy across all models studied—Decision Tree Classifier, Random Forest Classifier, and K-Nearest Neighbors (KNN)—is around 25%. This indicates that while the current models provide some insight, further study of all features and proper grouping of relevant words in the ten features could potentially improve the score.
 
