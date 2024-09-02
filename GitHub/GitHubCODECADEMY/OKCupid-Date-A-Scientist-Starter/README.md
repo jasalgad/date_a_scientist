@@ -6,7 +6,7 @@ Our analysis reveals that 47% of the individuals are single, unemployed, and MAY
 
 There is a significant difference in drug consumption between genders, with men exhibiting a higher frequency of drug use than women.
 
-Regarding religion prediction, the accuracy across all models studied—Decision Tree Classifier, Random Forest Classifier, and K-Nearest Neighbors (KNN)—is around 25%. This indicates that while the current models provide some insight, further study of all features and proper grouping of relevant words in the ten features could potentially improve the score.
+Regarding religion prediction, the accuracy across all models studied—Decision Tree Classifier, Random Forest Classifier, and K-Nearest Neighbors (KNN)—is around 28%. This indicates that while the current models provide some insight, further study of all features and proper grouping of relevant words in the ten features could potentially improve the score.
 
 Additionally, I experimented with creating an NLP model by vectorizing the words from all features that describe the individual, similar to the approach used in the 'essay.' However, the accuracy was similar, and incorporating this model did not prove to be necessary. Instead, I focused on clarifying infinitive verbs and important words, converting them into vectors, and using them based on frequency and significance.
 
